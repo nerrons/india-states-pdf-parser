@@ -1,7 +1,6 @@
 import pdftotext
 from pathlib import Path
 from pprint import pprint
-import shutil
 import dateparser
 
 years_list = [ '2020-21', '2019-20', '2018-19', '2017-18', '2016-17', '2015-16', '2014-15', '2013-14' ]
