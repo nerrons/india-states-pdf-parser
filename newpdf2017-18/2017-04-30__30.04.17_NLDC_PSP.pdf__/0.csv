@@ -1,8 +1,0 @@
-"","NR","WR","SR","ER","NER","Total"
-"Demand Met during Evening Peak hrs(MW) (at 2000 hrs; from RLDCs)","44231","44829","36628","19766","2195","147649"
-"Peak Shortage (MW)","481","71","0","200","180","932"
-"Energy Met (MU)","996","1105","915","414","32","3462"
-"Hydro Gen(MU)","221","36","37","55","9","358"
-"Wind Gen(MU)","13","59","24","----------","----------","96"
-"Solar Gen (MU)*","2.78","12.46","26.10","0.54","0.03","42"
-"Maximum Demand Met during the day (MW) (from NLDC SCADA)","46411","47891","40089","20164","2390","149462"
