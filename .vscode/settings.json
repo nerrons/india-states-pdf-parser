@@ -1,4 +1,5 @@
 {
     "python.pythonPath": "/Users/nerrons/.venvs/pdf/bin/python3.7",
-    "python.linting.enabled": false
+    "python.linting.enabled": false,
+    "git.ignoreLimitWarning": true
 }
